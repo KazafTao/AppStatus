@@ -1,1 +1,2 @@
 # AppStatus
+process.cfg中保存所有需要查看状态的进程名以及进程组，可以通过配置process.cfg来添加想查看的进程状态
